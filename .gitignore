@@ -1,3 +1,5 @@
 .venv
 instance
 ecommerce.db
+__pycache__
+keys.py
