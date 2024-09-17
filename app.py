@@ -243,7 +243,7 @@ def checkout():
 def make_shell_context():
     return {"db": db, "User": User, "Product": Product, "CartItem": CartItem}
 
-#a a
+
 # Iniciar app
 if __name__ == "__main__":
     app.run(debug=True)
